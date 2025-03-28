@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f6f6f6;
+    height: 100vh;
+}
+
+form {
+    width: 40vw;
+    background-color: red;
+    text-align: center;
+    padding: 30px 20px;
+    margin: auto;
+}
+
+form label {
+    display: block;
+}
